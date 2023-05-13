@@ -1,0 +1,10 @@
+{
+  "uuid": "automaticsuspendqs@onea.ro",
+  "version": "23.5.13",
+  "shell-version": [
+    "43"
+  ],
+  "name": "Automatic Suspend Quick Settings",
+  "description": "Add quick settings for automatic suspend",
+  "url": "https://github.com/andreinonea/gnome-shell-extension-automatic-suspend-qs"
+}
